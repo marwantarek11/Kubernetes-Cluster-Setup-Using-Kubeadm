@@ -1,4 +1,5 @@
 # Kubernetes Cluster Setup Using Kubeadm on AWS
+![1667359076133](https://github.com/user-attachments/assets/127806e8-0a8f-471b-b848-360b2f8246b9)
 
 Step-by-step instructions to set up a Kubernetes cluster using `kubeadm` on AWS. The setup includes creating 1 master node and 2 worker nodes using Terraform to provision the EC2 instances. Additionally, we will cover the necessary prerequisites, including opening the required ports.
 
